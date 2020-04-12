@@ -1,5 +1,4 @@
 <?php
-$secret_key = "SGTBeansBand"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = ""; //This is your file dir, also the link..
 $domain_url = 'http://seargentpepper.com/images';
 $lengthofstring = 8; //Length of the file name
