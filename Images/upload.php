@@ -1,6 +1,6 @@
 <?php
 $sharexdir = ""; //This is your file dir, also the link..
-$domain_url = 'http://seargentpepper.com/images/';
+$domain_url = 'http://www.seargentpepper.com/images/';
 $lengthofstring = 8; //Length of the file name
 
 function RandomString($length) {
