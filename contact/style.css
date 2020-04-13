@@ -114,13 +114,11 @@
     color: #2ecc71
 }
 .app-picture{
-    width: 50%;
-    height: 50%;
+    width: 280px;
     float: right;
 }
 .app-picture img{
-    width: 50%;
-    height: 50%;
+    width: 280px;
     margin-top: -20px;
     padding-left: 50px;
 }
