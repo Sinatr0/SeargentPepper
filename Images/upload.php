@@ -1,7 +1,6 @@
 <?php
-$secret_key = "SGTBeansBand"
 $sharexdir = ""; //This is your file dir, also the link..
-$domain_url = 'http://www.seargentpepper.com/Images/';
+$domain_url = 'http://www.i.seargentpepper.com/images/';
 $lengthofstring = 8; //Length of the file name
 
 function RandomString($length) {
