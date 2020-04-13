@@ -23,7 +23,7 @@
     margin-top: -7px;
     margin-right: 48px;
 }
-.active{
+.inactive-btn{
     top: 40px;
     right: 1580px;
     position: absolute;
@@ -35,13 +35,13 @@
     background-origin: border-box;
     background-clip: content-box,border-box;
 }
-.active span{
+.inactive-btn span{
     display: block;
     padding: 8px 22px;
 }
-.inactive-btn{
+.active{
     top: 40px;
-    right: 1480px;
+    right: 1440px;
     position: absolute;
     text-decoration: none;
     color: #c5a8bb;
@@ -51,7 +51,7 @@
     background-origin: border-box;
     background-clip: content-box,border-box;
 }
-.inactive-btn span{
+.active span{
     display: block;
     padding: 8px 22px;
 }
