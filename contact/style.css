@@ -113,14 +113,10 @@
     line-height: 25px;
     color: #2ecc71
 }
-.app-picture{
-    width: 280px;
-    float: right;
-}
 .app-picture img{
-    width: 280px;
+    width: 150px;
     margin-top: -20px;
-    padding-left: 50px;
+    padding-left: 1480px;
 }
 .contact-btn{
     top: 400px;
@@ -137,4 +133,14 @@
 .contact-btn span{
     display: block;
     padding: 8px 22px;
+}
+.contact-button{
+    background: none;
+    border: solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
